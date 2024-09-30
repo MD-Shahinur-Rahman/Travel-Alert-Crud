@@ -1,0 +1,6 @@
+@TravelAlertRakibFinalProject_HostAddress = http://localhost:5073
+
+GET {{TravelAlertRakibFinalProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
